@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhatsAppppp</string>
+
+    <string-array name="query_suggestions">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>SCALA</item>
+        <item>Ruby</item>
+        <item>Array is a collection of same kind of elements.I am writing this to check ellipsize functionality
+        </item>
+    </string-array>
+</resources>
